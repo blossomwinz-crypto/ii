@@ -1,7 +1,10 @@
 {
   "name": "CustomProfile",
   "description": "Fake your username, display name, and badges locally. Only you can see the changes.",
-  "authors": [{ "name": "Ported from Nightcord" }],
+  "authors": [{ "name": "PortedFromNightcord", "id": "0" }],
   "main": "index.js",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  }
 }
